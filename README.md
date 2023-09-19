@@ -21,15 +21,3 @@ Code and explaintion on socket programs using c on different conditions.
 10. Remote Command Execution Using UDP
 
 11. ARP Implementation Using UDP
-
-12. Study of IPV6 Addressing & Subnetting
-
-PACKET TRACER BASED 
-
-14.  Implementation of Network Address Translation
-
-15.  Implementation of VPN
-
-16.  Communication Using HDLC
-
-17.  Communication Using PPP

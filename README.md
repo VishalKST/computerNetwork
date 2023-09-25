@@ -21,3 +21,8 @@ Code and explaintion on socket programs using c on different conditions.
 10. Remote Command Execution Using UDP
 
 11. ARP Implementation Using UDP
+
+12.WebSocket using UDP
+
+13. DHCP Programming
+    
